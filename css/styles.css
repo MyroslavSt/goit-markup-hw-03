@@ -145,7 +145,7 @@ body {
 
 .first-section {
     padding-top: 188px;
-    padding-bottom: 292px;
+    padding-bottom: 188px;
     background-color: var(--brand-back-color);
 }
 
@@ -155,8 +155,6 @@ body {
     line-height: 1.07;
     margin: 0 auto;
     margin-bottom: 48px;
-    /* padding: 188px 473px 292px; */
-    /* margin-bottom: 48px; */
     color: var(--brand-sec-one);
 }
 
@@ -245,6 +243,7 @@ body {
 /* sec 4 */
 
 .team {
+    padding-top: 120px;
     padding-bottom: 120px;
 }
 
@@ -313,7 +312,6 @@ body {
 .footer-text {
     justify-content: flex-start;
     max-width: 264px;
-    height: 72px;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
