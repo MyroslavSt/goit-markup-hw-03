@@ -147,6 +147,11 @@ body {
     padding-top: 188px;
     padding-bottom: 188px;
     background-color: var(--brand-back-color);
+    background-image: url(../images/people-office.png);
+    /* linear-gradient(rgba(46, 47, 66, 0.7, rgba(46, 47, 66, 0.7)) */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .sec-one {
